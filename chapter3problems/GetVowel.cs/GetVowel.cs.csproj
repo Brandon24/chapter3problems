@@ -5,7 +5,7 @@
     <Platform Condition=" '$(Platform)' == '' ">x86</Platform>
     <ProductVersion>8.0.30703</ProductVersion>
     <SchemaVersion>2.0</SchemaVersion>
-    <ProjectGuid>ec13e3f3-5a93-43ea-942d-aeefff8c96e7</ProjectGuid>
+    <ProjectGuid>{F4633F0E-19FB-4B23-B76A-988522049D44}</ProjectGuid>
     <OutputType>Exe</OutputType>
     <AppDesignerFolder>Properties</AppDesignerFolder>
     <RootNamespace>GetVowel.cs</RootNamespace>

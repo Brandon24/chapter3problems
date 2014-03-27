@@ -5,6 +5,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "chapter3problems", "chapter
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum.cs", "Sum.cs\Sum.cs.csproj", "{0ECB1F70-1A9F-49E8-AFB4-CA3D09D8A749}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel.cs", "GetVowel.cs\GetVowel.cs.csproj", "{F4633F0E-19FB-4B23-B76A-988522049D44}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -19,6 +21,10 @@ Global
 		{0ECB1F70-1A9F-49E8-AFB4-CA3D09D8A749}.Debug|x86.Build.0 = Debug|x86
 		{0ECB1F70-1A9F-49E8-AFB4-CA3D09D8A749}.Release|x86.ActiveCfg = Release|x86
 		{0ECB1F70-1A9F-49E8-AFB4-CA3D09D8A749}.Release|x86.Build.0 = Release|x86
+		{F4633F0E-19FB-4B23-B76A-988522049D44}.Debug|x86.ActiveCfg = Debug|x86
+		{F4633F0E-19FB-4B23-B76A-988522049D44}.Debug|x86.Build.0 = Debug|x86
+		{F4633F0E-19FB-4B23-B76A-988522049D44}.Release|x86.ActiveCfg = Release|x86
+		{F4633F0E-19FB-4B23-B76A-988522049D44}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
