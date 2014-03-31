@@ -7,6 +7,16 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum.cs", "Sum.cs\Sum.cs.csp
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "GetVowel.cs", "GetVowel.cs\GetVowel.cs.csproj", "{F4633F0E-19FB-4B23-B76A-988522049D44}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EnsureValidPayRateLoop.cs", "EnsureValidPayRateLoop.cs\EnsureValidPayRateLoop.cs.csproj", "{ABE0D6A8-9B16-4F3F-973E-AD3730D65966}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EvenNums.cs", "EvenNums.cs\EvenNums.cs.csproj", "{1E293322-7F1F-4014-89F4-11E9A6A00447}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TableOfSquares.cs", "TableOfSquares.cs\TableOfSquares.cs.csproj", "{FF5B3D89-8B0C-4772-A0B4-ADB485D1F068}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Sum50.cs", "Sum50.cs\Sum50.cs.csproj", "{BA926979-673F-46A2-BB38-8FBF0CC9394B}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Perfect.cs", "Perfect.cs\Perfect.cs.csproj", "{918670B8-6EA1-4F7D-AA4C-5803F51D72DF}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x86 = Debug|x86
@@ -25,6 +35,26 @@ Global
 		{F4633F0E-19FB-4B23-B76A-988522049D44}.Debug|x86.Build.0 = Debug|x86
 		{F4633F0E-19FB-4B23-B76A-988522049D44}.Release|x86.ActiveCfg = Release|x86
 		{F4633F0E-19FB-4B23-B76A-988522049D44}.Release|x86.Build.0 = Release|x86
+		{ABE0D6A8-9B16-4F3F-973E-AD3730D65966}.Debug|x86.ActiveCfg = Debug|x86
+		{ABE0D6A8-9B16-4F3F-973E-AD3730D65966}.Debug|x86.Build.0 = Debug|x86
+		{ABE0D6A8-9B16-4F3F-973E-AD3730D65966}.Release|x86.ActiveCfg = Release|x86
+		{ABE0D6A8-9B16-4F3F-973E-AD3730D65966}.Release|x86.Build.0 = Release|x86
+		{1E293322-7F1F-4014-89F4-11E9A6A00447}.Debug|x86.ActiveCfg = Debug|x86
+		{1E293322-7F1F-4014-89F4-11E9A6A00447}.Debug|x86.Build.0 = Debug|x86
+		{1E293322-7F1F-4014-89F4-11E9A6A00447}.Release|x86.ActiveCfg = Release|x86
+		{1E293322-7F1F-4014-89F4-11E9A6A00447}.Release|x86.Build.0 = Release|x86
+		{FF5B3D89-8B0C-4772-A0B4-ADB485D1F068}.Debug|x86.ActiveCfg = Debug|x86
+		{FF5B3D89-8B0C-4772-A0B4-ADB485D1F068}.Debug|x86.Build.0 = Debug|x86
+		{FF5B3D89-8B0C-4772-A0B4-ADB485D1F068}.Release|x86.ActiveCfg = Release|x86
+		{FF5B3D89-8B0C-4772-A0B4-ADB485D1F068}.Release|x86.Build.0 = Release|x86
+		{BA926979-673F-46A2-BB38-8FBF0CC9394B}.Debug|x86.ActiveCfg = Debug|x86
+		{BA926979-673F-46A2-BB38-8FBF0CC9394B}.Debug|x86.Build.0 = Debug|x86
+		{BA926979-673F-46A2-BB38-8FBF0CC9394B}.Release|x86.ActiveCfg = Release|x86
+		{BA926979-673F-46A2-BB38-8FBF0CC9394B}.Release|x86.Build.0 = Release|x86
+		{918670B8-6EA1-4F7D-AA4C-5803F51D72DF}.Debug|x86.ActiveCfg = Debug|x86
+		{918670B8-6EA1-4F7D-AA4C-5803F51D72DF}.Debug|x86.Build.0 = Debug|x86
+		{918670B8-6EA1-4F7D-AA4C-5803F51D72DF}.Release|x86.ActiveCfg = Release|x86
+		{918670B8-6EA1-4F7D-AA4C-5803F51D72DF}.Release|x86.Build.0 = Release|x86
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
