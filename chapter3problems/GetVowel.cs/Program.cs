@@ -7,10 +7,18 @@ namespace GetVowel.cs
 {
     class Program
     {
-        static void Main(string[] args)
-            int 
+        static void Main(string[] args) 
         {
-            if (input[i] == 'a' || input [i] == 'e' || input [i] == 'i' || input == 'o' || input == 'u' > Console.Write(input [i]);
+            while (true)
+            { 
+                string input;
+                Console.WriteLine("Enter a vowel");
+                input = Console.ReadLine().ToLower();
+                if (input == "a" || input == "e" || input == "i" || input == "o" || input == "u")
+                {
+                    Console.WriteLine("Enter another");
+                }
+                else if (input != "a" || input != "e" || input != "i" || input != "o" || input != "u")
         }
     }
 }
